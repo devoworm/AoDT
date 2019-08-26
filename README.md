@@ -14,4 +14,4 @@ Open Datasets:
 
 Simulations:
 
-* Plinko activation along the A-P axis.   [link](https://github.com/devoworm/Triangular-State-Machines-TSM/tree/master/A-P%20segmentation%20Plinko%20tree)
+* Plinko probability game to model developmental contingency along the A-P axis.   [link](https://github.com/devoworm/Triangular-State-Machines-TSM/tree/master/A-P%20segmentation%20Plinko%20tree)
