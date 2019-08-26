@@ -11,3 +11,7 @@ Open Datasets:
 * Dataset for lineage and differentiation codes, _C. elegans_ developmental cell lineage.   [link](https://github.com/devoworm/AoDT/blob/master/lineage-and-differentiation-codes.csv)
 
 * Randomized trees based on _C. elegans_ developmental cell lineage that generates differentiation codes.   [link](https://github.com/devoworm/AoDT/blob/master/randomized-trees-by-diff-code.csv)
+
+Simulations:
+
+* Plinko activation along the A-P axis.   [link](https://github.com/devoworm/Triangular-State-Machines-TSM/tree/master/A-P%20segmentation%20Plinko%20tree)
