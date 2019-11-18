@@ -18,3 +18,5 @@ Moire patterns (Wikipedia): [link](https://en.wikipedia.org/wiki/Moir%C3%A9_patt
 * gradients vs. no gradients (or controlled) pattern expression.
 
 * motifs (grating), motifs are expressed in space and can overlap. Offset determines complex pattern formation.
+
+* another version of positional information.
