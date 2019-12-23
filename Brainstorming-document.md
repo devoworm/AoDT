@@ -15,3 +15,5 @@ Open Datasets:
 Simulations:
 
 * Plinko probability game to model developmental contingency along the A-P axis.   [link](https://github.com/devoworm/Triangular-State-Machines-TSM/tree/master/A-P%20segmentation%20Plinko%20tree)
+
+* Moire patterns using Turing R-D model, or alternative model. Paper on connections between Moire patterns in perception, machine learning, and developmental pattern formation. 
