@@ -20,3 +20,8 @@ Moire patterns (Wikipedia): [link](https://en.wikipedia.org/wiki/Moir%C3%A9_patt
 * motifs (grating), motifs are expressed in space and can overlap. Offset determines complex pattern formation.
 
 * another version of positional information.
+
+
+Instances in biology:  
+
+* _P. mirabilis_ colony morphogenesis. See [Fractal Geometry in Biological Systems: An Analytical Approach](https://books.google.com/books?id=_N7Vt6HLStsC&pg=PA149&lpg=PA149&dq=moire+patterns+morphogens&source=bl&ots=Aj8DYVXSMb&sig=ACfU3U3rqATcoppq5hKdTXBVRF2iA9ZQOg&hl=en&sa=X&ved=2ahUKEwj94uf58YTnAhVGCc0KHfcOBMoQ6AEwEHoECAsQAQ#v=onepage&q=moire%20patterns%20morphogens&f=false)
