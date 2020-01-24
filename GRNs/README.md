@@ -24,3 +24,17 @@ Stochastic generation:
 4) Boolean model simplifies mapping of biological function to a phase space.
 
 5) heterochrony can be observed in artificial regulatory networks.
+
+Schlitt, T. and Brazma, A. (2007). [Current approaches to gene regulatory network modelling](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-S6-S9). _BMC Bioinformatics_, 8, S9.
+
+Models used to approximate GRNs:
+
+1) network parts lists.
+
+2) topological models.
+
+3) network control logic models (Boolean).
+
+4) dynamic models.
+
+5) finite state linear models (combination of Boolean and continuous models).
