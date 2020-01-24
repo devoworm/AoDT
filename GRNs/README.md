@@ -37,3 +37,13 @@ Models used to approximate GRNs:
 4) dynamic models.
 
 5) finite state linear models (combination of Boolean and continuous models).
+
+Kim, H. and Sayama, H. (2018). [How Criticality of Gene Regulatory Networks Affects the Resulting Morphogenesis under Genetic Perturbations](https://arxiv.org/ftp/arxiv/papers/1801/1801.04919.pdf). _Artificial Life_, 24(2), 85-105.
+
+Use Random Boolean Networks (RBNs).
+
+1) population of cells with identical GRNs.
+
+2) GRNs exhibit criticality when regulatory links are changed between pairs of genes.
+
+3) leads to asymmetric morphologies.
