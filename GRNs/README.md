@@ -1,6 +1,6 @@
 Cussat-Blanc, S., Banzhaf, W., and Harington, K. (2019). [Artificial Gene Regulatory Networks: a review](https://www.researchgate.net/publication/330646881_Artificial_Gene_Regulatory_Networks-A_Review). _Artificial Life_, 24(4), 296-328. doi:10.1162/artl_a_00267.
 
-Regulation:
+Regulation:  
 
 1) control of flows and fluxes, particulrly temporal flow.
 
@@ -10,10 +10,9 @@ Regulation:
 
 4) multiple sets of interactions that create profiles.
 
-5) origins in the work of Waddington, Davidson.
+5) origins in the work of [Waddington](https://en.wikipedia.org/wiki/C._H._Waddington), [Davidson](https://en.wikipedia.org/wiki/Eric_H._Davidson).
 
-
-Stochastic generation:
+Stochastic generation:  
 
 1) Gillespie algorithm, kinetics, Petri nets, flux balance analysis.
 
