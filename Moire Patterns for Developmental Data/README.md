@@ -43,3 +43,5 @@ Instances in biology:
 
 * appear in the xylem of of genus _Entandrophragma_ (mahogany wood), results from morphogenetic waves in the cambium (layer of stem cells). See [Discontinuous lines on the radial face of wavy-grained xylem as a manifestation
 of morphogenetic waves in the cambium.](https://www.researchgate.net/profile/Beata_Zagorska-Marek/publication/260285028_Discontinuous_lines_on_the_radial_face_of_wavy-grained_xylem_as_a_manifestation_of_morphogenic_waves_in_the_cambium_1980_Beata_Zagorska-Marek_Zygmunt_Hejnowicz_Acta_Soc_Bot_Poloniae_49_DOI_httpdxdoior/links/0deec5307a57d3b0a6000000/Discontinuous-lines-on-the-radial-face-of-wavy-grained-xylem-as-a-manifestation-of-morphogenic-waves-in-the-cambium-1980-Beata-Zagorska-Marek-Zygmunt-Hejnowicz-Acta-Soc-Bot-Poloniae-49-DOI-http-dxdo.pdf)
+
+* nanoscale structure of 2-D surfaces; "Mapping the Moire", [2D Materials, 5, 041008 (2018)](https://doi.org/10.1038/s41567-018-0323-5).
