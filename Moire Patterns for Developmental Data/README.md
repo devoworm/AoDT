@@ -38,3 +38,6 @@ Genetic Algorithm/Artificial Life model:
 Instances in biology:  
 
 * _P. mirabilis_ colony morphogenesis. See [Fractal Geometry in Biological Systems: An Analytical Approach](https://books.google.com/books?id=_N7Vt6HLStsC&pg=PA149&lpg=PA149&dq=moire+patterns+morphogens&source=bl&ots=Aj8DYVXSMb&sig=ACfU3U3rqATcoppq5hKdTXBVRF2iA9ZQOg&hl=en&sa=X&ved=2ahUKEwj94uf58YTnAhVGCc0KHfcOBMoQ6AEwEHoECAsQAQ#v=onepage&q=moire%20patterns%20morphogens&f=false)
+
+* appear in the xylem of of genus _Entandrophragma_ (mahogany wood), results from morphogenetic waves in the cambium (layer of stem cells). See [Discontinuous lines on the radial face of wavy-grained xylem as a manifestation
+of morphogenetic waves in the cambium.](https://www.researchgate.net/profile/Beata_Zagorska-Marek/publication/260285028_Discontinuous_lines_on_the_radial_face_of_wavy-grained_xylem_as_a_manifestation_of_morphogenic_waves_in_the_cambium_1980_Beata_Zagorska-Marek_Zygmunt_Hejnowicz_Acta_Soc_Bot_Poloniae_49_DOI_httpdxdoior/links/0deec5307a57d3b0a6000000/Discontinuous-lines-on-the-radial-face-of-wavy-grained-xylem-as-a-manifestation-of-morphogenic-waves-in-the-cambium-1980-Beata-Zagorska-Marek-Zygmunt-Hejnowicz-Acta-Soc-Bot-Poloniae-49-DOI-http-dxdo.pdf)
