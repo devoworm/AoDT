@@ -11,7 +11,9 @@ Moire patterns (Wikipedia): [link](https://en.wikipedia.org/wiki/Moir%C3%A9_patt
 
 * can we create a GRN to create this output?
 
-* compare with Turing morphogenesis, differentiation tree model.
+* can we create another type of self-organized brain to perceive this output and process the information within? See [this grant proposal](https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Physical%20Intelligence%20and%20Emergence%20mini-grant/Abstract.md)
+
+Compare with Turing morphogenesis, differentiation tree model.
 
 * in Turing morphogenesis, stripes or patterned modules are produced through gradient formation.
 
