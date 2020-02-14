@@ -21,7 +21,7 @@ Compare with Turing morphogenesis, differentiation tree model.
 
 * motifs (grating), motifs are expressed in space and can overlap. Offset determines complex pattern formation.
 
-* another version of positional information.
+* another version of positional information (relative movement). Create a coordinate system for overlapping patterns and their interaction information.
 
 
 Genetic Algorithm/Artificial Life model:
