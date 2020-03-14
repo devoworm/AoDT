@@ -25,6 +25,7 @@ Compare with Turing morphogenesis, differentiation tree model.
 
 Examples that involve static linear gratings [link](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data/Gratings) and concentric circles [link](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data/Overlapping%20Concentric%20Circles) in various stages of separability and overlap. 
 
+* what degree of overlap produces meta-patterns? what shapes are best for observing Moire patterrs (concentric circles but not bars)?
 
 Genetic Algorithm/Artificial Life model:
 
