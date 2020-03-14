@@ -23,6 +23,8 @@ Compare with Turing morphogenesis, differentiation tree model.
 
 * another version of positional information (relative movement). Create a coordinate system for overlapping patterns and their interaction information.
 
+Examples that involve static linear gratings [link](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data/Gratings) and concentric circles [link](https://github.com/devoworm/AoDT/tree/master/Moire%20Patterns%20for%20Developmental%20Data/Overlapping%20Concentric%20Circles) in various stages of separability and overlap. 
+
 
 Genetic Algorithm/Artificial Life model:
 
