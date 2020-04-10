@@ -47,3 +47,5 @@ Use Random Boolean Networks (RBNs).
 2) GRNs exhibit criticality when regulatory links are changed between pairs of genes.
 
 3) leads to asymmetric morphologies.
+
+Connectionist architectures can also be used to model GRNs. Chapter 4 of "Ingenious Genes: How Gene Regulation Networks Evolve to Control Development" by Roger Samson (MIT Press).
