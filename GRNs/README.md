@@ -49,3 +49,7 @@ Use Random Boolean Networks (RBNs).
 3) leads to asymmetric morphologies.
 
 Connectionist architectures can also be used to model GRNs. Chapter 4 of "Ingenious Genes: How Gene Regulation Networks Evolve to Control Development" by Roger Samson (MIT Press).
+
+* addresses issue of evolvability.
+
+* information processing and regulatory systems (how does boolean networks act on target given environmental variation).
