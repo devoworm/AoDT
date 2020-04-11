@@ -6,6 +6,8 @@ Axonomy (and Projection Theory)
 
 Spherical and non-Eucliean Geometry
 
+Isometric Curves
+
 Texture Mappings  
 
 Isometric Dimensionality Reduction  
