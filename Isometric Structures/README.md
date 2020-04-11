@@ -4,6 +4,8 @@ Related topics:
 
 Axonomy (and Projection Theory)  
 
+Spherical and non-Eucliean Geometry
+
 Texture Mappings  
 
 Isometric Dimensionality Reduction  
